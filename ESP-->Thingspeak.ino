@@ -1,6 +1,3 @@
-
-#
-
 #include <ESP8266WiFi.h>
  
 String apiKey = "UCL4FYA4BNO60SSA";     //  Enter your Write API key from ThingSpeak
